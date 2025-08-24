@@ -1,0 +1,12 @@
+postgresql://
+postgres
+:
+xIvUGqFNTFDGMTQmnRhGpWrJrIHPXZVt
+@
+caboose.proxy.rlwy.net
+:
+55123
+/
+railway
+
+jdbc:postgresql://caboose.proxy.rlwy.net:55123/railway
